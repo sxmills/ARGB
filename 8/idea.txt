@@ -1,0 +1,3 @@
+4096 'stripes' that are 16384 * 512 going horizontal or vertical. have to create the algorithm
+noise(?)
+spiral(?)
