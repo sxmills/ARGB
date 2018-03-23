@@ -1,0 +1,26 @@
+1.8
+ICON.8
+
+For approx/main square size:
+
+BPC	CHN	POW (2^)
+8	1	1 2 3 4
+8	2	1 2 3 4 5 6 7 8
+8	3	3 6 9 12
+8	4	2 4 6 8 10 12 14 16
+
+UNC SIZE = 4*(2^x)^2
+POWER UNC SIZE IN MEM (8 BPC):
+1	16B
+2	64B
+3	256B
+4	1KiB
+5	4KiB
+6	16KiB
+7	64KiB
+8	256KiB
+9	1MiB
+10	4MiB
+12	64MiB
+14	1GiB
+16	16GiB
